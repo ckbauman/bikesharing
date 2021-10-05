@@ -11,7 +11,7 @@ Our data is collected for the month of August. We can see various charts that sh
 ### Total Number of Rides
 We can see the total number of Rides for the month of August.
 
-INSERT  No Rides image
+![No Rides](https://github.com/ckbauman/bikesharing/blob/main/Images/No_Rides.png)
 
 ### August Peak Hours
 We can see the Peak Hours for August are primarily during the evening commute, between 5:00 - 7:00 pm. It is also quite busy during the morning commute around 8:00 am
