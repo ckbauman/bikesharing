@@ -2,7 +2,7 @@
 Module 14
 
 ## Overview
-We are reviewing City bikesharig data from New York City to see if this business model is possible in Des Moines.  We are reviewing bikesharing data for total rides in the month of August.  This data is broken out for times of day, gender and length of rides.
+We are reviewing City bikesharing data from New York City to see if this business model is possible in Des Moines.  We are reviewing bikesharing data for total rides in the month of August.  This data is broken out for times of day, gender and length of rides.
 
 
 ## Results
@@ -28,7 +28,7 @@ We can see that the majority of bike checkouts throughout All hours have a minim
 
 ![Checkout Users](https://github.com/ckbauman/bikesharing/blob/main/Images/Checkout_Users.png)
 
-### Chekcout Times by Gender
+### Checkout Times by Gender
 We can see that the vast majority of bike checkouts are for Males.  Female checkouts are at about 30% of Male checkouts.
 
 ![Checkout Gender](https://github.com/ckbauman/bikesharing/blob/main/Images/Checkout_Gender.png)
@@ -60,7 +60,7 @@ Our analysis came together in the Story.  We used the Dashboard to open the stor
 
 The Tableau Story can be found at the following:
 
-INSERT URL
+[link to dashboard](https://public.tableau.com/app/profile/kathy.bauman/viz/Module14_Challenge_16328924800320/Analysis)
 
 
 
