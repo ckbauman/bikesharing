@@ -1,3 +1,8 @@
+# Ignore the very large .csv files.  They are too big for GitHub
+bike_data.csv
+201908-citibike-tripdata.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
